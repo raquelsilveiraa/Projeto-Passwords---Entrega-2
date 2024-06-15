@@ -1,0 +1,1 @@
+As estruturas de dados implementadas para o projeto se encontram nessa pasta.
